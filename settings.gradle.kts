@@ -4,6 +4,8 @@ include("libraries:my-library")
 
 include("scripts:my-script")
 include("scripts")
+include("libraries:framework")
+include("scripts:cooks-assistant")
 
 pluginManagement {
     repositories {
